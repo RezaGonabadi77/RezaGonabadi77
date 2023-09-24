@@ -1,7 +1,6 @@
 ## Reza Gonabadi
 # ✍️ About Me
-- 👨‍💻 Robotics Engineer | Python & C++ enthusiast
-- 🌟 Open source contributor 
+- 👨‍💻 Robotics Engineer | Python & C++ enthusiast 
 - 💡 Creating elegant solutions that solve Algo trading problem
 - 🚀 Building Trading Bot with MQL4 and Python
 - 📚 M.S, Biomedical Engineering at Polimi (2022-2023)
