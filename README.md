@@ -7,4 +7,4 @@ A discreption about me
 📚 M.S, Biomedical Engineering at Polimi 
 📚 B.C, Electrical Engineering at K.N.toosi
 🚀 Former member of KN2C Robotics team (2018-2021)
-
+📫 How to reach me: gonabadyreza@gmail.com
